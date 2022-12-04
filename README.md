@@ -8,7 +8,8 @@ A mall wants to run a marketing campaign. They want to taregt their promotions a
 
 # EDA
 
-![image](https://user-images.githubusercontent.com/65409885/205502342-5bae4814-043c-4c23-900f-70b3bd73f355.png)
+![image](https://user-images.githubusercontent.com/65409885/205502414-3185018a-e2ad-4a62-8a6c-6de470225311.png)
+
 
 ![image](https://user-images.githubusercontent.com/65409885/205502343-2ee11796-8ce2-4aa6-955a-85a441aa5ab6.png)
 
